@@ -19,22 +19,22 @@
     <td class="tg-yw4l">1</td>
     <td class="tg-yw4l">Pengantar Tensor</td>
     <td class="tg-yw4l">Memberikan gambaran singkat tentang tipe data tensor dan operasi-operasi aritmatika sederhana menggunakan PyTorch</td>
-    <td class="tg-yw4l"><a href="01_tensorbasic.ipynb">Tensorbasic</a> </td>
+    <td class="tg-yw4l"><a href="IPYNB Code/01_tensorbasic.ipynb">Tensorbasic</a> </td>
   </tr>
 
 <tr>
     <td class="tg-yw4l">2</td>
     <td class="tg-yw4l">Autograd</td>
     <td class="tg-yw4l">Membahas tentang proses menghitung gradien secara otomatis dengan fungsi autograd</td>
-    <td class="tg-yw4l"><a href="02_Autograd.ipynb">Autograd</a> </td>
+    <td class="tg-yw4l"><a href="IPYNB Code/02_Autograd.ipynb">Autograd</a> </td>
   </tr>
 
 <tr>
     <td class="tg-yw4l">3</td>
     <td class="tg-yw4l">Forward Pass, Backpropagation, Computational Graph</td>
     <td class="tg-yw4l">Membahas tentang proses forward pass dan back-propagation serta keterkaitan antara keduanya. Pada bagian ini juga dibahas bagaimana proses computational graph.</td>
-    <td class="tg-yw4l"><a href="03_Backprop.ipynb">Backprop</a>
-<a href="03b_ComputationalGraph.ipynb">CompGraph</a> </td>
+    <td class="tg-yw4l"><a href="IPYNB Code/03_Backprop.ipynb">Backprop</a>
+<a href="IPYNB Code/03b_ComputationalGraph.ipynb">CompGraph</a> </td>
   </tr>
 </table>
 
