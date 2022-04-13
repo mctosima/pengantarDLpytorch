@@ -120,6 +120,8 @@ Materi yang ada pada repositori ini bersifat gratis dan akan selalu tersedia sec
 Kami menyadari bahwa konten ini tidak sepenuhnya bersumber dari diri kami sendiri. Atribusi dan pencantuman sumber sebisa mungkin dilakukan untuk memberikan kredit kepada pembuat. Apabila anda sebagai pembuat materi / asset yang digunakan pada repositori ini merasa keberatan, kami dengan senang hati akan memperbaiki dan menghapus materi / asset anda dari repositori ini.
 
 # Lisensi dan Atribusi
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Seluruh kode dan materi yang ada di dalam repositori ini menggunakan lisensi MIT. Anda dapat dengan bebas melakukan:
 - Menggunakannya untuk keperluan komersial
 - Memodifikasi dan menggunakannya untuk keperluan pribadi
