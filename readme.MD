@@ -140,4 +140,5 @@ Apabila anda menggunakan kode dan materi yang ada di dalam repositori ini untuk 
 - PyTorch documentation — PyTorch 1.11.0 documentation. (n.d.). Retrieved April 13, 2022, from https://pytorch.org/docs/stable/index.html
 - Activation functions in Neural Networks. (2018, January 29). GeeksforGeeks. https://www.geeksforgeeks.org/activation-functions-neural-networks/
 - Engineer, P. (2021, February 24). Deep Learning With PyTorch - Full Course. Youtube. https://www.youtube.com/watch?v=c36lUUr864M
+- Engineer), P. L. (python. (n.d.). pytorchTutorial: PyTorch Tutorials from my YouTube channel. Github. Retrieved April 13, 2022, from https://github.com/python-engineer/pytorchTutorial 
 - PyTorch Tutorial. (n.d.). Retrieved April 13, 2022, from https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
