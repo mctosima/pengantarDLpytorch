@@ -123,6 +123,9 @@ conda activate ptorch
 
 # install pytorch (CPU only) untuk arsitektur x86_64
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+# install paket dependensi esensial lainnya
+conda install --file requirements.txt
 ```
 
 Jika anda ingin menggunakan GPU NVIDIA dalam proses komputasi (pada beberapa notebook), anda dapat mengikuti perintah berikut untuk instalasi PyTorch berserta paket dependensi lainnya. Perhatikan bahwa GPU NVIDA anda (beserta driver) juga harus mendukung CUDA toolkit 11.3.
