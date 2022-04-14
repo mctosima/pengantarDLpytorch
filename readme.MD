@@ -104,7 +104,7 @@
 
 <tr>
     <td class="tg-yw4l">13</td>
-    <td class="tg-yw4l">CNN dengan CIFAR</td>
+    <td class="tg-yw4l">CNN dengan CIFAR (belum selesai)</td>
     <td class="tg-yw4l">Mencoba melakukan training dan testing menggunakan metode konvolusi pada dataset CIFAR</td>
     <td class="tg-yw4l"><a href="IPYNB Code/15_CNNCIFAR.ipynb">CNN-CIFAR</a>
   </tr>
