@@ -2,9 +2,6 @@
 > **Tentang Repositori Ini:**
 > Repositori ini memuat kumpulan bahan belajar tentang implementasi Deep Learning menggunakan PyTorch
 
-
-
-
 ## Daftar Isi
 
 <table class="tg">
@@ -113,7 +110,7 @@
 
 ## Instalasi dan Prasyarat
 
-Untuk menjalankan skrip pada jupyter notebook yang ada dalam folder [IPYNB Code](IPYNB%20Code/) anda memerlukan instalasi framework PyTorch beserta paket dependensi lainnya. Anda juga disarankan membuat *environment* baru dengan menggunakan `conda`.
+Untuk menjalankan skrip pada jupyter notebook yang ada dalam folder [IPYNB Code](IPYNB%20Code/), anda memerlukan instalasi framework PyTorch beserta paket dependensi lainnya. Anda juga disarankan membuat *environment* baru dengan menggunakan `conda`.
 
 ```bash
 # clone repositori
@@ -134,6 +131,8 @@ Jika anda ingin menggunakan GPU NVIDIA dalam proses komputasi (pada beberapa not
 # install pytorch (+GPU) untuk arsitektur x86_64
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 ```
+
+Lebih lengkap terkait instalasi framework PyTorch pada mesin lokal anda, kunjungi halaman utama [instalasi PyTorch](https://pytorch.org/get-started/locally/).
 
 ## Saran dan Pengembangan
 
@@ -164,10 +163,10 @@ Apabila anda menggunakan kode dan materi yang ada di dalam repositori ini untuk 
 
 ## Referensi
 
-- Krizhevsky, A. (n.d.). Learning Multiple Layers of Features from Tiny Images. https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
-- MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges. (n.d.). Retrieved April 13, 2022, from http://yann.lecun.com/exdb/mnist/
-- PyTorch documentation — PyTorch 1.11.0 documentation. (n.d.). Retrieved April 13, 2022, from https://pytorch.org/docs/stable/index.html
-- Activation functions in Neural Networks. (2018, January 29). GeeksforGeeks. https://www.geeksforgeeks.org/activation-functions-neural-networks/
-- Engineer, P. (2021, February 24). Deep Learning With PyTorch - Full Course. Youtube. https://www.youtube.com/watch?v=c36lUUr864M
-- Engineer), P. L. (python. (n.d.). pytorchTutorial: PyTorch Tutorials from my YouTube channel. Github. Retrieved April 13, 2022, from https://github.com/python-engineer/pytorchTutorial 
-- PyTorch Tutorial. (n.d.). Retrieved April 13, 2022, from https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+- Krizhevsky, A. (n.d.). Learning Multiple Layers of Features from Tiny Images. <https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf>
+- MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges. (n.d.). Retrieved April 13, 2022, from <http://yann.lecun.com/exdb/mnist/>
+- PyTorch documentation — PyTorch 1.11.0 documentation. (n.d.). Retrieved April 13, 2022, from <https://pytorch.org/docs/stable/index.html>
+- Activation functions in Neural Networks. (2018, January 29). GeeksforGeeks. <https://www.geeksforgeeks.org/activation-functions-neural-networks/>
+- Engineer, P. (2021, February 24). Deep Learning With PyTorch - Full Course. Youtube. <https://www.youtube.com/watch?v=c36lUUr864M>
+- Engineer), P. L. (python. (n.d.). pytorchTutorial: PyTorch Tutorials from my YouTube channel. Github. Retrieved April 13, 2022, from <https://github.com/python-engineer/pytorchTutorial>
+- PyTorch Tutorial. (n.d.). Retrieved April 13, 2022, from <https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html>
