@@ -53,8 +53,8 @@
     <td class="tg-yw4l">6</td>
     <td class="tg-yw4l">Linear Regression</td>
     <td class="tg-yw4l">Melakukan regresi sederhana dengan deep learning, mengatur hyperparameter, dan melihat hasil prediksi</td>
-    <td class="tg-yw4l"><a href="IPYNB Code/07_linearreg.ipynb">Lin-reg1</a>
-    <a href="IPYNB Code/08_linearreg2.ipynb">Lin-reg2</a></td>
+    <td class="tg-yw4l"><a href="IPYNB Code/07_linearreg.ipynb">Linearreg1</a>,
+    <a href="IPYNB Code/08_linearreg2.ipynb">Linearreg2</a></td>
   </tr>
 
 <tr>
@@ -101,7 +101,7 @@
 
 <tr>
     <td class="tg-yw4l">13</td>
-    <td class="tg-yw4l">CNN dengan CIFAR (belum selesai)</td>
+    <td class="tg-yw4l">CNN dengan CIFAR</td>
     <td class="tg-yw4l">Mencoba melakukan training dan testing menggunakan metode konvolusi pada dataset CIFAR</td>
     <td class="tg-yw4l"><a href="IPYNB Code/15_CNNCIFAR.ipynb">CNN-CIFAR</a>
   </tr>
