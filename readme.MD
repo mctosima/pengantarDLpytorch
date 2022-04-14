@@ -11,7 +11,7 @@
     <th class="tg-yw4l"><b>Deskripsi</b></th>
     <th class="tg-yw4l"><b>Notebook</b></th>
   </tr>
-  
+
   <tr>
     <td class="tg-yw4l">1</td>
     <td class="tg-yw4l">Pengantar Tensor</td>
