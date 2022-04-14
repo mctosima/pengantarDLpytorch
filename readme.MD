@@ -5,7 +5,7 @@
 
 
 
-# Daftar Isi
+## Daftar Isi
 
 <table class="tg">
   <tr>
@@ -57,8 +57,7 @@
     <td class="tg-yw4l">Linear Regression</td>
     <td class="tg-yw4l">Melakukan regresi sederhana dengan deep learning, mengatur hyperparameter, dan melihat hasil prediksi</td>
     <td class="tg-yw4l"><a href="IPYNB Code/07_linearreg.ipynb">Lin-reg1</a>
-      
-      <a href="IPYNB Code/08_linearreg2.ipynb">Lin-reg2</a></td>
+    <a href="IPYNB Code/08_linearreg2.ipynb">Lin-reg2</a></td>
   </tr>
 
 <tr>
@@ -112,32 +111,59 @@
 
 </table>
 
-# Instalasi dan Prasyarat
-(akan ditambahkan kemudian)
+## Instalasi dan Prasyarat
 
-# Saran dan Pengembangan
+Untuk menjalankan skrip pada jupyter notebook yang ada dalam folder [IPYNB Code](IPYNB%20Code/) anda memerlukan instalasi framework PyTorch beserta paket dependensi lainnya. Anda juga disarankan membuat *environment* baru dengan menggunakan `conda`.
+
+```bash
+# clone repositori
+git clone https://github.com/mctosima/pengantarDLpytorch.git
+cd pengantarDLpytorch
+
+# buat environment baru
+conda create -n ptorch python=3.9
+conda activate ptorch
+
+# install pytorch (CPU only) untuk arsitektur x86_64
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+```
+
+Jika anda ingin menggunakan GPU NVIDIA dalam proses komputasi (pada beberapa notebook), anda dapat mengikuti perintah berikut. Perhatikan bahwa GPU NVIDA anda (beserta driver) juga harus mendukung CUDA toolkit 11.3.
+
+```bash
+# install pytorch (+GPU) untuk arsitektur x86_64
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+```
+
+## Saran dan Pengembangan
+
 Materi yang ada pada repositori ini bersifat gratis dan akan selalu tersedia secara gratis. Kami berterima kasih apabila ada pihak-pihak yang ingin membantu dan mengoreksi konten dari repositori ini. Silahkan tambahkan [issue baru](https://github.com/mctosima/pengantarDLpytorch/issues) agar kami dapat melacak kesalahan maupun saran perbaikan yang ada
 
 Kami menyadari bahwa konten ini tidak sepenuhnya bersumber dari diri kami sendiri. Atribusi dan pencantuman sumber sebisa mungkin dilakukan untuk memberikan kredit kepada pembuat. Apabila anda sebagai pembuat materi / asset yang digunakan pada repositori ini merasa keberatan, kami dengan senang hati akan memperbaiki dan menghapus materi / asset anda dari repositori ini.
 
-# Lisensi dan Atribusi
+## Lisensi dan Atribusi
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Seluruh kode dan materi yang ada di dalam repositori ini menggunakan lisensi MIT. Anda dapat dengan bebas melakukan:
+
 - Menggunakannya untuk keperluan komersial
 - Memodifikasi dan menggunakannya untuk keperluan pribadi
 - dan Mendistribusikannya untuk kepentingan luas
 
 Apabila anda menggunakan kode dan materi yang ada di dalam repositori ini untuk keperluan komersial, riset, dan pendidikan, mohon cantumkan atribusi terhadap pemilik repositori:
+
 ```angular2html
 @misc{mctiww2022,
   title={Pengantar Deep Learning Dengan Pytorch},
   author={Manullang, Martin Clinton Tosima and Wisesa, I Wayan Wiprayoga},
   journal={https://github.com/mctosima/pengantarDLpytorch},
   year={2022}
+}
 ```
 
-# Referensi
+## Referensi
+
 - Krizhevsky, A. (n.d.). Learning Multiple Layers of Features from Tiny Images. https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
 - MNIST handwritten digit database, Yann LeCun, Corinna Cortes and Chris Burges. (n.d.). Retrieved April 13, 2022, from http://yann.lecun.com/exdb/mnist/
 - PyTorch documentation — PyTorch 1.11.0 documentation. (n.d.). Retrieved April 13, 2022, from https://pytorch.org/docs/stable/index.html
