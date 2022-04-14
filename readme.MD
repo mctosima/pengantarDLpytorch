@@ -110,7 +110,7 @@
 
 ## Instalasi dan Prasyarat
 
-Untuk menjalankan skrip pada jupyter notebook yang ada dalam folder [IPYNB Code](IPYNB%20Code/), anda memerlukan instalasi framework PyTorch beserta paket dependensi lainnya. Anda juga disarankan membuat *environment* baru dengan menggunakan `conda`.
+Untuk menjalankan skrip pada jupyter notebook yang ada dalam folder [IPYNB Code](IPYNB%20Code/), anda memerlukan instalasi framework PyTorch beserta paket dependensi lainnya. Anda juga disarankan membuat *environment* baru dengan menggunakan `conda`. Petunjuk instalasi conda tidak dijelaskan disini, anda dapat mengikuti petunjuk pada laman [dokumentasi Anaconda](https://docs.anaconda.com/anaconda/install/index.html).
 
 ```bash
 # clone repositori
