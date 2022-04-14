@@ -57,7 +57,8 @@
     <td class="tg-yw4l">Linear Regression</td>
     <td class="tg-yw4l">Melakukan regresi sederhana dengan deep learning, mengatur hyperparameter, dan melihat hasil prediksi</td>
     <td class="tg-yw4l"><a href="IPYNB Code/07_linearreg.ipynb">Lin-reg1</a>
-<a href="IPYNB Code/08_linearreg2.ipynb">Lin-reg2</a></td>
+      
+      <a href="IPYNB Code/08_linearreg2.ipynb">Lin-reg2</a></td>
   </tr>
 
 <tr>
