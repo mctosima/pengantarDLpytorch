@@ -106,6 +106,13 @@
     <td class="tg-yw4l"><a href="IPYNB Code/15_CNNCIFAR.ipynb">CNN-CIFAR</a>
   </tr>
 
+<tr>
+    <td class="tg-yw4l">14</td>
+    <td class="tg-yw4l">Transfer Learning</td>
+    <td class="tg-yw4l">Pada percobaan ini dilakukan proses transfer learning dari model Resnet18 untuk mengklasifikasikan citra pada dataset hymenoptera (lebah atau semut). Pada modul ini juga dipelajari tentang scheduler.</td>
+    <td class="tg-yw4l"><a href="IPYNB Code/16_TransferLearning.ipynb">Transfer Learning</a>
+  </tr>
+
 </table>
 
 ## Instalasi dan Prasyarat
