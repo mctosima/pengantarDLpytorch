@@ -1,6 +1,12 @@
+<div align="center">
+
 # Pengantar Deep Learning Dengan PyTorch
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python 3.7+-blue?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch 1.8+-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+</div>
+
 > **Tentang Repositori Ini:**
-> Repositori ini memuat kumpulan bahan belajar tentang implementasi Deep Learning menggunakan PyTorch
+> Repositori ini memuat kumpulan bahan belajar tentang implementasi Deep Learning menggunakan PyTorch berbahasa Indonesia. Saran dan masukan sangat dibutuhkan bagi pengembang demi meningkatkan kualitas bahan belajar ini.
 
 ## Daftar Isi
 
