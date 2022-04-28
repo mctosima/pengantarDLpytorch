@@ -119,6 +119,13 @@
     <td class="tg-yw4l"><a href="IPYNB Code/16_TransferLearning.ipynb">Transfer Learning</a>
   </tr>
 
+<tr>
+    <td class="tg-yw4l">15</td>
+    <td class="tg-yw4l">Tensorboard</td>
+    <td class="tg-yw4l">Pada modul kali ini, dibahas penggunaan tensorboard untuk meninjau metrik performa dari proses training, testing, serta menggunakan fitur-fitur dasar yang ada pada tensorboard..</td>
+    <td class="tg-yw4l"><a href="IPYNB Code/17_tensorboard.ipynb">Tensorboard</a>
+  </tr>
+
 </table>
 
 ## Instalasi dan Prasyarat
