@@ -126,6 +126,13 @@
     <td class="tg-yw4l"><a href="IPYNB Code/17_tensorboard.ipynb">Tensorboard</a>
   </tr>
 
+<tr>
+    <td class="tg-yw4l">16</td>
+    <td class="tg-yw4l">Sequence Model</td>
+    <td class="tg-yw4l">Membahas tentang prediksi terhadap data yang masuk secara sequence dalam rentang waktu. Materi ini menjadi pengantar untuk pembahasan topik Recurssive Neural Network (RNN).</td>
+    <td class="tg-yw4l"><a href="IPYNB Code/18_rnn_seq.ipynb">Sequence Model</a>
+  </tr>
+
 </table>
 
 ## Instalasi dan Prasyarat
@@ -193,3 +200,4 @@ Apabila anda menggunakan kode dan materi yang ada di dalam repositori ini untuk 
 - Engineer, P. (2021, February 24). Deep Learning With PyTorch - Full Course. Youtube. <https://www.youtube.com/watch?v=c36lUUr864M>
 - Engineer), P. L. (python. (n.d.). pytorchTutorial: PyTorch Tutorials from my YouTube channel. Github. Retrieved April 13, 2022, from <https://github.com/python-engineer/pytorchTutorial>
 - PyTorch Tutorial. (n.d.). Retrieved April 13, 2022, from <https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html>
+- Dive into Deep Learning, Zhang, Aston and Lipton, Zachary C. and Li, Mu and Smola, Alexander J., from<http://d2l.ai/>
