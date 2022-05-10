@@ -7,8 +7,10 @@ numpy
 tqdm
 ipykernel
 d2l
+spacy
 
 # --------- torch ecosystem --------- #
 torch>=1.10.0
 torchvision>=0.11.0
 torchmetrics>=0.7.0
+torchtext==0.6.0
