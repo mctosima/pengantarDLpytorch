@@ -14,16 +14,18 @@ torch.save(x, '/lokasipenyimpanan/tensor.pt')
 
 # Saving Model
 Ada dua jenis cara menyimpan model:
-- Menggunakan `model.state_dict()`
+- Menggunakan `model.state_dict()` 
 - Menggunakan model secara keseluruhan
 
 <br>
 
 ## **Menggunakan `model.state_dict()`**
+Pytorch menyarankan untuk menyimpan `state_dict()` model karena alasan [kompatibilitas](https://pytorch.org/docs/stable/notes/serialization.html#saving-and-loading-torch-nn-modules)
+
 ```python
 torch.save(model.state_dict(), '/lokasipenyimpanan/model.pt')
 ```
-Jika menggunakan ini, maka model yang disimpan hanya berisi `model.state_dict()` atau informasi-informasi dari isi sebuah model
+Jika menggunakan metode ini, maka model yang disimpan hanya berisi `model.state_dict()` atau informasi-informasi penting sebuah model seperti parameter-parameter dan *persistent buffer* seperti pada [modul `BatchNorm`](https://pytorch.org/docs/stable/generated/torch.nn.Module.html#torch.nn.Module.register_buffer)
 
 dan untuk memuatnya:
 ```python
