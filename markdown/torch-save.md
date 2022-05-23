@@ -14,7 +14,7 @@ torch.save(x, '/lokasipenyimpanan/tensor.pt')
 
 # Saving Model
 Ada dua jenis cara menyimpan model:
-- Menggunakan `model.state_dict()` 
+- Menggunakan `model.state_dict()`
 - Menggunakan model secara keseluruhan
 
 <br>

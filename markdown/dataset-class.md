@@ -34,7 +34,7 @@ class CustomImageDataset(Dataset):
     def __getitem__(self, idx):
         image = img_data[idx]
         label = label[idx]
-        
+
         return image, label
 ```
 
