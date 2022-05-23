@@ -127,11 +127,18 @@
   </tr>
 
 <tr>
-    <td class="tg-yw4l">16</td>
-    <td class="tg-yw4l">Sequence Model</td>
-    <td class="tg-yw4l">Membahas tentang prediksi terhadap data yang masuk secara sequence dalam rentang waktu. Materi ini menjadi pengantar untuk pembahasan topik Recurssive Neural Network (RNN).</td>
-    <td class="tg-yw4l"><a href="IPYNB Code/18_rnn_seq.ipynb">Sequence Model</a>
-  </tr>
+  <td class="tg-yw4l">16</td>
+  <td class="tg-yw4l">Weight & Bias</td>
+  <td class="tg-yw4l">Mencoba untuk merekam log proses training, menyimpan dan menampilkannya di platform Weight & Bias</td>
+  <td class="tg-yw4l"><a href="IPYNB Code/24_wandb.ipynb">Wandb</a>
+</tr>
+
+<tr>
+  <td class="tg-yw4l">17</td>
+  <td class="tg-yw4l">Sequence Model</td>
+  <td class="tg-yw4l">Membahas tentang prediksi terhadap data yang masuk secara sequence dalam rentang waktu. Materi ini menjadi pengantar untuk pembahasan topik Recurssive Neural Network (RNN).</td>
+  <td class="tg-yw4l"><a href="IPYNB Code/18_rnn_seq.ipynb">Sequence Model</a>
+</tr>
 
 </table>
 
