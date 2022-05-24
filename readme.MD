@@ -80,7 +80,7 @@
 <tr>
     <td class="tg-yw4l">9</td>
     <td class="tg-yw4l">Dataset Transform</td>
-    <td class="tg-yw4l">Mentransformasikan dataset dengan bantuan dengan fungsi transforms dari pytorch</td>
+    <td class="tg-yw4l">Mentransformasikan dataset dengan bantuan fungsi transforms dari pytorch</td>
     <td class="tg-yw4l"><a href="IPYNB Code/11_DatasetTransform.ipynb">Data Transform</a>
   </tr>
 
