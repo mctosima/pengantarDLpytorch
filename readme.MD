@@ -113,28 +113,35 @@
   </tr>
 
 <tr>
-    <td class="tg-yw4l">14</td>
+  <td class="tg-yw4l">14</td>
+  <td class="tg-yw4l">Menyimpan dan Memuat Model & Checkpoint </td>
+  <td class="tg-yw4l">Pada tutorial ini akan dibahas secara komprehensif cara-cara untuk menyimpan dan memuat model, serta menyimpan checkpoint ketika melakukan training. Juga akan dibahas cara-cara untuk menyimpan parameter secara online menggunakan wandb.</td>
+  <td class="tg-yw4l"><a href="IPYNB Code/25_checkpoint.ipynb">CNN-CIFAR</a>
+  </tr>
+
+<tr>
+    <td class="tg-yw4l">15</td>
     <td class="tg-yw4l">Transfer Learning</td>
     <td class="tg-yw4l">Pada percobaan ini dilakukan proses transfer learning dari model Resnet18 untuk mengklasifikasikan citra pada dataset hymenoptera (lebah atau semut). Pada modul ini juga dipelajari tentang scheduler.</td>
     <td class="tg-yw4l"><a href="IPYNB Code/16_TransferLearning.ipynb">Transfer Learning</a>
   </tr>
 
 <tr>
-    <td class="tg-yw4l">15</td>
+    <td class="tg-yw4l">16</td>
     <td class="tg-yw4l">Tensorboard</td>
     <td class="tg-yw4l">Pada modul kali ini, dibahas penggunaan tensorboard untuk meninjau metrik performa dari proses training, testing, serta menggunakan fitur-fitur dasar yang ada pada tensorboard..</td>
     <td class="tg-yw4l"><a href="IPYNB Code/17_tensorboard.ipynb">Tensorboard</a>
   </tr>
 
 <tr>
-  <td class="tg-yw4l">16</td>
+  <td class="tg-yw4l">17</td>
   <td class="tg-yw4l">Weight & Bias</td>
   <td class="tg-yw4l">Mencoba untuk merekam log proses training, menyimpan dan menampilkannya di platform Weight & Bias</td>
   <td class="tg-yw4l"><a href="IPYNB Code/24_wandb.ipynb">Wandb</a>
 </tr>
 
 <tr>
-  <td class="tg-yw4l">17</td>
+  <td class="tg-yw4l">18</td>
   <td class="tg-yw4l">Sequence Model</td>
   <td class="tg-yw4l">Membahas tentang prediksi terhadap data yang masuk secara sequence dalam rentang waktu. Materi ini menjadi pengantar untuk pembahasan topik Recurssive Neural Network (RNN).</td>
   <td class="tg-yw4l"><a href="IPYNB Code/18_rnn_seq.ipynb">Sequence Model</a>
