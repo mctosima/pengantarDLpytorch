@@ -107,7 +107,7 @@
     <td class="tg-yw4l">12</td>
     <td class="tg-yw4l">Learning Rate Scheduler</td>
     <td class="tg-yw4l">Membahas metode scheduler untuk mengubah nilai LR pada setiap epoch</td>
-    <td class="tg-yw4l"><a href="IPYNB Code/26_lrscheduler.ipynb">Act Function</a>
+    <td class="tg-yw4l"><a href="IPYNB Code/26_lrscheduler.ipynb">LR Scheduler</a>
   </tr>
 
 <tr>
@@ -128,7 +128,7 @@
   <td class="tg-yw4l">15</td>
   <td class="tg-yw4l">Menyimpan dan Memuat Model & Checkpoint </td>
   <td class="tg-yw4l">Pada tutorial ini akan dibahas secara komprehensif cara-cara untuk menyimpan dan memuat model, serta menyimpan checkpoint ketika melakukan training. Juga akan dibahas cara-cara untuk menyimpan parameter secara online menggunakan wandb.</td>
-  <td class="tg-yw4l"><a href="IPYNB Code/25_checkpoint.ipynb">CNN-CIFAR</a>
+  <td class="tg-yw4l"><a href="IPYNB Code/25_checkpoint.ipynb">Save & Ckpt</a>
   </tr>
 
 <tr>
