@@ -8,6 +8,11 @@
 > **Tentang Repositori Ini:**
 > Repositori ini memuat kumpulan bahan belajar tentang implementasi Deep Learning menggunakan PyTorch berbahasa Indonesia. Saran dan masukan sangat dibutuhkan bagi pengembang demi meningkatkan kualitas bahan belajar ini.
 
+> Bingung memilih antara mempelajari tensorflow dan pytorch?
+[Baca lebih lengkap disini](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
+
+<br>
+
 ## Daftar Isi
 
 <table class="tg">
@@ -151,6 +156,10 @@
 
 Juga terdapat kumpulan tulisan cheatsheet (contekan) terkait pytorch yang dapat anda baca pada [tautan berikut ini](/markdown/cheatsheet.md)
 
+
+
+<br>
+
 ## Instalasi dan Prasyarat
 
 Untuk menjalankan skrip pada jupyter notebook yang ada dalam folder [IPYNB Code](IPYNB%20Code/), anda memerlukan instalasi framework PyTorch beserta paket dependensi lainnya. Anda juga disarankan membuat *environment* baru dengan menggunakan `conda`. Petunjuk instalasi conda tidak dijelaskan disini, anda dapat mengikuti petunjuk pada laman [dokumentasi Anaconda](https://docs.anaconda.com/anaconda/install/index.html).
@@ -180,11 +189,15 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 
 Lebih lengkap terkait instalasi framework PyTorch pada mesin lokal anda, kunjungi halaman utama [instalasi PyTorch](https://pytorch.org/get-started/locally/).
 
+<br>
+
 ## Saran dan Pengembangan
 
 Materi yang ada pada repositori ini bersifat gratis dan akan selalu tersedia secara gratis. Kami berterima kasih apabila ada pihak-pihak yang ingin membantu dan mengoreksi konten dari repositori ini. Silahkan tambahkan [issue baru](https://github.com/mctosima/pengantarDLpytorch/issues) agar kami dapat melacak kesalahan maupun saran perbaikan yang ada
 
 Kami menyadari bahwa konten ini tidak sepenuhnya bersumber dari diri kami sendiri. Atribusi dan pencantuman sumber sebisa mungkin dilakukan untuk memberikan kredit kepada pembuat. Apabila anda sebagai pembuat materi / asset yang digunakan pada repositori ini merasa keberatan, kami dengan senang hati akan memperbaiki dan menghapus materi / asset anda dari repositori ini.
+
+<br>
 
 ## Lisensi dan Atribusi
 
@@ -207,6 +220,8 @@ Apabila anda menggunakan kode dan materi yang ada di dalam repositori ini untuk 
 }
 ```
 
+
+---
 ## Referensi
 
 - Krizhevsky, A. (n.d.). Learning Multiple Layers of Features from Tiny Images. <https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf>
